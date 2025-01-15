@@ -72,3 +72,4 @@ export function TwitterFollowCard ({formatUserName,userName, name, initialIsFoll
 //la base de la reutilizacion de cualquier componente en react es las propiedades, los parametros.  
 
 */
+

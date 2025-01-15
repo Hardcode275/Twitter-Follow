@@ -56,3 +56,8 @@ const users = [
 //}
 
 //un componente es una factoria de elementos, el elemento es el que renderiza, react renderiza elementos.
+
+// npm create vite@latest
+// cd proyect
+// npm install
+// npm run dev
